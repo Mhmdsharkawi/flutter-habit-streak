@@ -1,0 +1,10 @@
+name: flutter_habit_streak
+description: Habit tracker.
+version: 1.0.0+1
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.5
+  hive: ^2.2.3
